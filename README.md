@@ -1,3 +1,6 @@
+# Testplugin
+This plugin allows you to set others flying and controls how fast they can fly. It is important to note that each command will take in a difference permission node. Keep on scrolling to find out more about permission levels.
+
 ## Command usage:
 
     /fly set <player_name> <amount> -- Controls others flying speed and enable others flying
@@ -23,6 +26,5 @@
     fly.use -- Allows you to do /fly. This is the most important permission if you want the user to get access to it.
     fly.use.off -- Allows you to do /fly off <player_name>
     fly.use.set -- Allows you to do /fly set <player_name> <amount>
-    
 
 ### Developed by Clarence
