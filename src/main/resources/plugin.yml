@@ -1,0 +1,9 @@
+name: Testplugin
+version: '${project.version}'
+main: com.clarence.test.Testplugin
+api-version: 1.21
+authors: [ Clarence ]
+description: Cool test plugin
+commands:
+  fly:
+    description: Lets the user fly in whatever speed they want.

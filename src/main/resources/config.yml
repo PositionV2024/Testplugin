@@ -1,0 +1,17 @@
+#### Author: PositionV
+
+## List of color codes you can use: https://htmlcolorcodes.com/minecraft-color-codes/
+
+## Permission nodes:
+## "fly.use";
+## "fly.use.off";
+## "fly.use.set";
+
+PLUGIN_PREFIX_COLOR: "&9" ## Set the prefix color
+
+SET_ERROR_COLOR: "&7" ## Dont modified this if you want to color the rest
+
+NO_PERMISSION_ERROR_MESSAGE: "You do not have permission to use this."
+NO_TARGET_FOUND: "The targeted player does not exist or is offline."
+INVALID_NUMBER: "You can only set the targeted player's flying speed from 0 - 1."
+PLAYER_NOT_FLYING: "The targeted player is not flying."
