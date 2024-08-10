@@ -1,6 +1,8 @@
 # Testplugin
 This plugin allows you to set others flying and controls how fast they can fly. It is important to note that each command will take in a difference permission node. Keep on scrolling to find out more about permission levels.
 
+Free to download
+https://builtbybit.com/resources/enable-fly.49528/
 ## Command usage:
 
     /fly set <player_name> <amount> -- Controls others flying speed and enable others flying
